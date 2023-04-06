@@ -17,7 +17,7 @@ public class Periodico extends Escrito{
     }
 
     @Override
-    String interpretacion() {
+    public String interpretacion() {
         return interpretacion;
     }
 
